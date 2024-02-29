@@ -1,4 +1,7 @@
 # Gemini-Powered-MultiPDF-Chatbot
+
+![gemini](https://github.com/shaadclt/Gemini-LangChain-MultiPDF-Chatbot/assets/98437584/9c826ccf-6dca-40fb-86b6-ab77bb2c9e3f)
+
 Gemini-Powered-MultiPDF-Chatbot is a Streamlit application that leverages Google Generative AI Gemini and LangChain for conversational question-answering based on PDF documents. This chatbot allows users to ask questions related to the content of uploaded PDF files.
 
 ## Features
