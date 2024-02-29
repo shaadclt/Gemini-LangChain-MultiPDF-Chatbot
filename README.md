@@ -35,11 +35,11 @@ streamlit run app.py
 4. The chatbot will provide an answer based on the context of the uploaded PDF files.
    
 ## Dependencies
-Streamlit
-PyPDF2
-langchain
-Google Generative AI
-python-dotenv
+- Streamlit
+- PyPDF2
+- langchain
+- Google Generative AI
+- python-dotenv
 
 ## License
 This project is licensed under the MIT License.
